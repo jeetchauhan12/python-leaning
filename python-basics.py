@@ -35,4 +35,4 @@ a = True   # Boolean Example
 b = False
 
 print(type(a))
-print(a or b)
+print(a or b) 

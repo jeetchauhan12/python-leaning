@@ -17,7 +17,6 @@ age = 21
 print("Name: {} Age: {}".format(name, age))
 
 # Method 4: Using f-Strings (Python 3.6+)
-
 name = "Jeet"
 age = 21
 print(f"Name: {name} Age: {age}")
