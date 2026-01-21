@@ -1,4 +1,4 @@
-# What is a Dictionary? A dictionary stores data as key : value pairs.
+# 4. Dictionary (Mutable, Ordered Collection) Definition: A dictionary stores data as key-value pairs.
 
 # Example 1: Creating a dictionary
 
