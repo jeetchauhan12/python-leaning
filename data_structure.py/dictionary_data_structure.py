@@ -1,4 +1,4 @@
-# What is a Dictionary? A dictionary stores data as key : value pairs.
+# 4. Dictionary (Mutable, Ordered Collection) Definition: A dictionary stores data as key-value pairs.
 
 # Example 1: Creating a dictionary
 
@@ -36,16 +36,3 @@ for subject, score in marks.items():
 
 info = {"id": 101, "name": "Alice", "is_student": True, "grades": [85, 90, 95]}
 print(info)
-
-# Example 8: Nested dictionary
-
-employee = {
-    "emp1": {"name": "Bob", "age": 30},
-    "emp2": {"name": "Alice", "age": 25}
-}
-print(employee)
-
-# Example 9: Creating dictionary using dict() function
-
-new_dict = dict(name="Jeet", age=21)
-print(new_dict)
